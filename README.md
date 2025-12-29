@@ -34,6 +34,8 @@ Run the script:
 
 python caesar_cipher_gui.py
 
+Check your path if it dosent work
+
 🧠 How It Works
 Field	Description
 MESSAGE	Enter the text you want to encrypt or decrypt
